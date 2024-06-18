@@ -7,5 +7,9 @@
 
 ### Prompt Tuning
 
-* [What is prompt tuning? | IBM Research Blog](https://research.ibm.com/blog/what-is-ai-prompt-tuning) 
+* [What is prompt tuning? | IBM Research Blog](https://research.ibm.com/blog/what-is-ai-prompt-tuning)
+
+## Cookbooks
+
+* [mistralai/cookbook](https://github.com/mistralai/cookbook/tree/main?tab=readme-ov-file) 
 
