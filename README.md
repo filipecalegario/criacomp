@@ -1,15 +1,4 @@
-# ref-aulas-criacomp
+# Referências para Aulas de Criatividade Computacional
 
-* Explicação para machine learning processes: https://twitter.com/hlntnr/status/1632030583462285312
-* [Tutorials — 🦜🔗 LangChain 0.0.193](https://python.langchain.com/en/latest/getting_started/tutorials.html)
-
-## Concepts
-
-### Prompt Tuning
-
-* [What is prompt tuning? | IBM Research Blog](https://research.ibm.com/blog/what-is-ai-prompt-tuning)
-
-## Cookbooks
-
-* [mistralai/cookbook](https://github.com/mistralai/cookbook/tree/main?tab=readme-ov-file) 
+[Novidades para Aulas de 2024.2](2024_2_news.md)
 
