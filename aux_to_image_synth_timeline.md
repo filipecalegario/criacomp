@@ -1,3 +1,6 @@
 * [LeNet - Wikipedia](https://en.wikipedia.org/wiki/LeNet) 
 * [LeNet and MNIST handwritten digit recognition | by Khuyen Le | Medium](https://lekhuyen.medium.com/lenet-and-mnist-handwritten-digit-classification-354f5646c590)
 * [ImageNet - Wikipedia](https://en.wikipedia.org/wiki/ImageNet) 
+* [AlexNet and ImageNet: The Birth of Deep Learning | Pinecone](https://www.pinecone.io/learn/series/image-search/imagenet/)
+* [AlexNet: A Revolutionary Deep Learning Architecture - viso.ai](https://viso.ai/deep-learning/alexnet/)
+* [AlexNet Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) 
