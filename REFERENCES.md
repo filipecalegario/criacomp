@@ -18,6 +18,7 @@
 ## Catalog for more references (branching factor)
 
 * [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai): Learn Agentic AI using CrewAI, LangChain, LangGraph, and Knowledge Graphs.
+* [LLM apps built with RAG and AI agents / X](https://x.com/victor_explore/status/1896374933003153668): A curated collection of awesome LLM apps built with RAG and AI agents
 
 ## Tested Tools
 
