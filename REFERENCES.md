@@ -11,6 +11,10 @@
 
 ## Posts to be read
 
+## Catalog for more references (branching factor)
+
+* [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai): Learn Agentic AI using CrewAI, LangChain, LangGraph, and Knowledge Graphs.
+
 ## Tested Tools
 
 * [UVR5 UI - a Hugging Face Space by TheStinger](https://huggingface.co/spaces/TheStinger/UVR5_UI): music source separation with multiple models. A good one to separate voice BS-Roformer-Viperx-1296
