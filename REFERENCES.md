@@ -1,1 +1,17 @@
-* [What is prompt tuning? | IBM Research Blog](https://research.ibm.com/blog/what-is-ai-prompt-tuning) 
+# Organized References 
+
+## Tools to be tested
+
+* [Postman AI Agent Builder | Postman API Network](https://www.postman.com/ai-on-postman/postman-ai-agent-builder/overview)
+* [Stanford Storm](https://storm.genie.stanford.edu/)
+
+## Videos to be watched
+
+## Papers to be read
+
+## Posts to be read
+
+## Tested Tools
+
+* [UVR5 UI - a Hugging Face Space by TheStinger](https://huggingface.co/spaces/TheStinger/UVR5_UI): music source separation with multiple models. A good one to separate voice BS-Roformer-Viperx-1296
+* [Di♪♪Rhythm - a Hugging Face Space by ASLP-lab](https://huggingface.co/spaces/ASLP-lab/DiffRhythm): input lyrics with timestamps. English-only.
