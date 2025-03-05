@@ -34,3 +34,4 @@
 ## About Embeddings
 
 * [(416) The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
+* [thesephist/contra-bottleneck-t5-large-wikipedia · Hugging Face](https://huggingface.co/thesephist/contra-bottleneck-t5-large-wikipedia): able to encode text up to 512 tokens into an embedding, then reconstruct the original text from the embedding
