@@ -28,3 +28,9 @@
 
 * [UVR5 UI - a Hugging Face Space by TheStinger](https://huggingface.co/spaces/TheStinger/UVR5_UI): music source separation with multiple models. A good one to separate voice BS-Roformer-Viperx-1296
 * [Di♪♪Rhythm - a Hugging Face Space by ASLP-lab](https://huggingface.co/spaces/ASLP-lab/DiffRhythm): input lyrics with timestamps. English-only.
+
+# Thematic References
+
+## About Embeddings
+
+* [(416) The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
