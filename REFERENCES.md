@@ -11,6 +11,10 @@
 
 ## Posts to be read
 
+## Courses to be taken
+
+* [The Reasoning Course - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter12/1?fw=pt)
+
 ## Catalog for more references (branching factor)
 
 * [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai): Learn Agentic AI using CrewAI, LangChain, LangGraph, and Knowledge Graphs.
