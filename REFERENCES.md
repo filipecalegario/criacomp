@@ -7,6 +7,8 @@
 
 ## Videos to be watched
 
+* [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s): Andrej Karpathy
+
 ## Papers to be read
 
 ## Posts to be read
