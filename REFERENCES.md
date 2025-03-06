@@ -37,3 +37,7 @@
 
 * [(416) The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
 * [thesephist/contra-bottleneck-t5-large-wikipedia · Hugging Face](https://huggingface.co/thesephist/contra-bottleneck-t5-large-wikipedia): able to encode text up to 512 tokens into an embedding, then reconstruct the original text from the embedding
+
+## Ideas for CRIACOMP groups
+
+* [Blog/articles/multi_agents.md at main · YukoOshima/Blog](https://github.com/YukoOshima/Blog/blob/main/articles/multi_agents.md): a multi-agent setup for generating and validating flash cards.
