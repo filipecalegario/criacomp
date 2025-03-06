@@ -13,6 +13,7 @@
 
 ## Courses to be taken
 
+* [The Hugging Face Agents Course](https://huggingface.co/agents-course)
 * [The Reasoning Course - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter12/1?fw=pt)
 
 ## Catalog for more references (branching factor)
