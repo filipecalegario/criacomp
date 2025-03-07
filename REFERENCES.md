@@ -4,6 +4,8 @@
 
 * [Postman AI Agent Builder | Postman API Network](https://www.postman.com/ai-on-postman/postman-ai-agent-builder/overview)
 * [Stanford Storm](https://storm.genie.stanford.edu/)
+* [Chunkr | Open Source Document Intelligence API](https://chunkr.ai/): API service to convert complex documents into LLM/RAG-ready chunks
+
 
 ## Videos to be watched
 
@@ -19,6 +21,7 @@
 
 * [The Hugging Face Agents Course](https://huggingface.co/agents-course)
 * [The Reasoning Course - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter12/1?fw=pt)
+* [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 ## Catalog for more references (branching factor)
 
@@ -41,7 +44,7 @@
 ## MCP Hype
 
 * [Karan Vaidya on X: "Automate Customer Support entirely with Cursor + MCP!! Cursor Agent can now autonomously fetch emails, solve code issues with codebase indexing and reply to these emails. Here's how you can do it in just 2 mins, - Go to Composio's MCP directory - Click on the Gmail app and copy https://t.co/DbQfwz1U1Q" / X](https://x.com/KaranVaidya6/status/1897690146725839193)
-* 
+* [Karan Vaidya on X: "Setup MCP on Cursor with Google Docs in less than 2 mins!! I used Cursor to create PRDs in Google Docs Here's how you can do it too: - Go to the @composiohq MCP directory - Search for Google Docs and grab your sse URL - Paste the URL and set up MCP in Cursor - Use Cursor https://t.co/UDRRpDy1AL" / X](https://x.com/KaranVaidya6/status/1897344383240060955)
 
 ## About Embeddings
 
