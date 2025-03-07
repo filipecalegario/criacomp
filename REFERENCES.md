@@ -11,6 +11,7 @@
 ## Videos to be watched
 
 * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s): Andrej Karpathy
+* [How to build & deploy agents, according to OpenAI - YouTube](https://www.youtube.com/watch?v=joHR2pmxDQE): AI Engineer Summit
 
 ## Papers to be read
 
@@ -46,6 +47,7 @@
 * [Robert Lukoszko on X: "MCP is really powerful. I made for myself in 1 day workflow to: 1. scrape linkedin profile 2. send personalized invitation letter with for my product 3. Scrape email from apollo. send it 4. Update notion CRM! If you guys need i can make it open source https://t.co/qQHwfK9ESN" / X](https://x.com/Karmedge/status/1897392194572705988)
 * [John Rush on X: "What is MCP &amp; why it's a big (huge) deal: (model context protocol) TLDR: MCP makes it possible for AI Tools to use external tools. E.g. Chatbot/IDE/AI-Agent can use Gmail/GoogleDrive/WeatherApp etc. Detailed explanation for both, tech &amp; non tech people (+demos): 1) AI Tools https://t.co/eC1E9sxrDq" / X](https://x.com/johnrushx/status/1897655569101779201)
 * [Adam Silverman (Hiring!) 🖇️ on X: "Everyone is talking about MCP. I summarized all the MCP announcements/launches from Composio, Firecrawl, Cursor, Jira, Langchain, Firebase, and more Send to your engineering team (save for later) https://t.co/x5zgVcariR" / X](https://x.com/AtomSilverman/status/1897409286466363626)
+* [Jordan Mix on X: "What even is MCP? Why am I bookmarking endless MCP posts without having a clue about what it is. FOMO? I wanna know tho. Send help." / X](https://x.com/jrdnmix/status/1897015411805446638)
 
 ## About Embeddings
 
