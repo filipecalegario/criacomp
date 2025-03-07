@@ -53,7 +53,7 @@
 
 * [(416) The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
 * [thesephist/contra-bottleneck-t5-large-wikipedia · Hugging Face](https://huggingface.co/thesephist/contra-bottleneck-t5-large-wikipedia): able to encode text up to 512 tokens into an embedding, then reconstruct the original text from the embedding
-* [If you're not fine-tuning and embedding models, you're Blockbuster, not Netflix.](https://x.com/jxnlco/status/1897337783058133080)
+* [If you're not fine-tuning and embedding models, you're Blockbuster, not Netflix.](https://x.com/jxnlco/status/1897337783058133080): [Video about Embedding Models Fine-tuning](https://maven.com/p/1ea9c9/glean-s-embedding-model-for-enterprise-adapted-ai)
 
 ## Ideas for CRIACOMP groups
 
