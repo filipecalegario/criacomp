@@ -6,6 +6,7 @@
 * [Stanford Storm](https://storm.genie.stanford.edu/)
 * [Chunkr | Open Source Document Intelligence API](https://chunkr.ai/): API service to convert complex documents into LLM/RAG-ready chunks
 * [Mistral OCR | Mistral AI](https://mistral.ai/en/news/mistral-ocr): Introducing the world’s best document understanding API
+* [Hello FastHTML and MonsterUI - Drew Echerd's Blog](https://www.drewecherd.com/post/hello-fasthtml-monsterui): a powerful combination for building modern web applications in Python
 
 ## Videos to be watched
 
@@ -41,6 +42,10 @@
 
 * [Karan Vaidya on X: "Automate Customer Support entirely with Cursor + MCP!! Cursor Agent can now autonomously fetch emails, solve code issues with codebase indexing and reply to these emails. Here's how you can do it in just 2 mins, - Go to Composio's MCP directory - Click on the Gmail app and copy https://t.co/DbQfwz1U1Q" / X](https://x.com/KaranVaidya6/status/1897690146725839193)
 * [Karan Vaidya on X: "Setup MCP on Cursor with Google Docs in less than 2 mins!! I used Cursor to create PRDs in Google Docs Here's how you can do it too: - Go to the @composiohq MCP directory - Search for Google Docs and grab your sse URL - Paste the URL and set up MCP in Cursor - Use Cursor https://t.co/UDRRpDy1AL" / X](https://x.com/KaranVaidya6/status/1897344383240060955)
+* [Matt Pocock on X: "Lots of folks feeling FOMO about MCP. Here's the problem it solves: https://t.co/UszaGAsOUD" / X](https://x.com/mattpocockuk/status/1897742389592440970)
+* [Robert Lukoszko on X: "MCP is really powerful. I made for myself in 1 day workflow to: 1. scrape linkedin profile 2. send personalized invitation letter with for my product 3. Scrape email from apollo. send it 4. Update notion CRM! If you guys need i can make it open source https://t.co/qQHwfK9ESN" / X](https://x.com/Karmedge/status/1897392194572705988)
+* [John Rush on X: "What is MCP &amp; why it's a big (huge) deal: (model context protocol) TLDR: MCP makes it possible for AI Tools to use external tools. E.g. Chatbot/IDE/AI-Agent can use Gmail/GoogleDrive/WeatherApp etc. Detailed explanation for both, tech &amp; non tech people (+demos): 1) AI Tools https://t.co/eC1E9sxrDq" / X](https://x.com/johnrushx/status/1897655569101779201)
+* [Adam Silverman (Hiring!) 🖇️ on X: "Everyone is talking about MCP. I summarized all the MCP announcements/launches from Composio, Firecrawl, Cursor, Jira, Langchain, Firebase, and more Send to your engineering team (save for later) https://t.co/x5zgVcariR" / X](https://x.com/AtomSilverman/status/1897409286466363626)
 
 ## About Embeddings
 
