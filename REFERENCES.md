@@ -52,6 +52,7 @@
 * [John Rush on X: "What is MCP &amp; why it's a big (huge) deal: (model context protocol) TLDR: MCP makes it possible for AI Tools to use external tools. E.g. Chatbot/IDE/AI-Agent can use Gmail/GoogleDrive/WeatherApp etc. Detailed explanation for both, tech &amp; non tech people (+demos): 1) AI Tools https://t.co/eC1E9sxrDq" / X](https://x.com/johnrushx/status/1897655569101779201)
 * [Adam Silverman (Hiring!) 🖇️ on X: "Everyone is talking about MCP. I summarized all the MCP announcements/launches from Composio, Firecrawl, Cursor, Jira, Langchain, Firebase, and more Send to your engineering team (save for later) https://t.co/x5zgVcariR" / X](https://x.com/AtomSilverman/status/1897409286466363626)
 * [Jordan Mix on X: "What even is MCP? Why am I bookmarking endless MCP posts without having a clue about what it is. FOMO? I wanna know tho. Send help." / X](https://x.com/jrdnmix/status/1897015411805446638)
+* [Matt Wolfe on X: "MCPs (Model Context Protocols) are the AI buzzword of the moment. If you’re into “vibe coding” or want to connect your Claude to external tools, this is a pretty big unlock. I found this thread about them valuable…" / X](https://x.com/mreflow/status/1897317957539389593)
 
 ## About Embeddings
 
