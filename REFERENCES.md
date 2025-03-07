@@ -58,6 +58,7 @@
 
 ## FOR FURTHER ANALYSIS
 
+* [The /llms.txt file – llms-txt](https://llmstxt.org/): o que é esse padrão?
 * [(2) Adam Sardo on X: "// .cursor/rules/plan.mdc When asked to enter "Planner Mode" deeply reflect upon the changes being asked and analyze existing code to map the full scope of changes needed. Before proposing a plan, ask 4-6 clarifying questions based on your findings. Once answered, draft a" / X](https://x.com/sardo_adam/status/1896269828509536658)
 * [Kyle Corbitt on X: "🕵️ Can smaller, open-weight models match state-of-the-art reasoning performance? We investigated using GRPO on "Temporal Clue," surpassing R1, o1, and o3-mini—and nearly matching Sonnet 3.7 at over 100x lower inference cost. Here's how: 👇 (1/6) https://t.co/odV85JMaic" / X](https://x.com/corbtt/status/1897735437340627405)
 * [Kirk Borne on X: "Source: @ordax on LinkedIn &gt;&gt; 10 YouTube channels for learning AI: 🎓 1) Andrej Karpathy – Deep yet accessible lectures on deep learning, LLMs, and an intro course on neural networks. https://t.co/DjCX8Va4tt 📊 2) 3Blue1Brown – Stunning visualizations that make abstract https://t.co/6b8yw09WNL" / X](https://x.com/KirkDBorne/status/1897510190267646307): pegar os usuários do Twitter deles
