@@ -12,6 +12,7 @@
 * [Mistral OCR | Mistral AI](https://mistral.ai/en/news/mistral-ocr): Introducing the world’s best document understanding API
 * [Hello FastHTML and MonsterUI - Drew Echerd's Blog](https://www.drewecherd.com/post/hello-fasthtml-monsterui): a powerful combination for building modern web applications in Python
 * [Poe](https://poe.com/)
+* [CopyCoder](https://copycoder.ai/): Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
 
 ## Videos to be watched
 
@@ -58,6 +59,8 @@
 * [Matt Wolfe on X: "MCPs (Model Context Protocols) are the AI buzzword of the moment. If you’re into “vibe coding” or want to connect your Claude to external tools, this is a pretty big unlock. I found this thread about them valuable…" / X](https://x.com/mreflow/status/1897317957539389593)
 * [Santiago on X: "Anthropic's MCP is a thing of beauty. This makes AI agents 100x more powerful. MCP stands for "Model Context Protocol." It's an open standard for connecting AI with data. Instead of worrying about 10,000 different ways to do the same thing, MCP provides a standard approach. •" / X](https://x.com/svpino/status/1896991534421307570)
 * [Alex Volkov (Thursd/AI) on X: "ok I'm MCP pilled, who's been using them for a while now? Who's written their own? Who do I need to follow to help me prepare for @thursdai_pod talking about MCPs? https://t.co/Ai7fOi19Ar" / X](https://x.com/altryne/status/1897051777352294424)
+* [will brown on X: "claude is building his own MCP tool setup in public https://t.co/Ug8pnD31j7" / X](https://x.com/willccbb/status/1896778724194062830)
+* [jason liu (NY 2/18-3/3) on X: "MCP vs OpenAPI https://t.co/eJBGLhSovE" / X](https://x.com/jxnlco/status/1897338699672859094)
 
 ## About Embeddings
 
