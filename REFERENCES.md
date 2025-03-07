@@ -24,6 +24,7 @@
 
 * [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai): Learn Agentic AI using CrewAI, LangChain, LangGraph, and Knowledge Graphs.
 * [LLM apps built with RAG and AI agents / X](https://x.com/victor_explore/status/1896374933003153668): A curated collection of awesome LLM apps built with RAG and AI agents
+* [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub/tree/main)
 
 ## FOR FURTHER ANALYSIS
 
@@ -36,6 +37,11 @@
 * [Di♪♪Rhythm - a Hugging Face Space by ASLP-lab](https://huggingface.co/spaces/ASLP-lab/DiffRhythm): input lyrics with timestamps. English-only.
 
 # Thematic References
+
+## MCP Hype
+
+* [Karan Vaidya on X: "Automate Customer Support entirely with Cursor + MCP!! Cursor Agent can now autonomously fetch emails, solve code issues with codebase indexing and reply to these emails. Here's how you can do it in just 2 mins, - Go to Composio's MCP directory - Click on the Gmail app and copy https://t.co/DbQfwz1U1Q" / X](https://x.com/KaranVaidya6/status/1897690146725839193)
+* 
 
 ## About Embeddings
 
