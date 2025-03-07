@@ -1,5 +1,9 @@
 # Organized References 
 
+## Ideas to be implemented
+
+* Use Claude 3.7 to create charts based on an input screenshot for a chart for inspiration and paste in the data
+
 ## Tools to be tested
 
 * [Postman AI Agent Builder | Postman API Network](https://www.postman.com/ai-on-postman/postman-ai-agent-builder/overview)
