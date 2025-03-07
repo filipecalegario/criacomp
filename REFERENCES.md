@@ -11,6 +11,7 @@
 * [Chunkr | Open Source Document Intelligence API](https://chunkr.ai/): API service to convert complex documents into LLM/RAG-ready chunks
 * [Mistral OCR | Mistral AI](https://mistral.ai/en/news/mistral-ocr): Introducing the world’s best document understanding API
 * [Hello FastHTML and MonsterUI - Drew Echerd's Blog](https://www.drewecherd.com/post/hello-fasthtml-monsterui): a powerful combination for building modern web applications in Python
+* [Poe](https://poe.com/)
 
 ## Videos to be watched
 
@@ -28,6 +29,7 @@
 * [The Hugging Face Agents Course](https://huggingface.co/agents-course)
 * [The Reasoning Course - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter12/1?fw=pt)
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+* [CSE 291 - AI Agents - UCSD CSE](https://pearls-lab.github.io/ai-agents-course/index.html)
 
 ## Catalog for more references (branching factor)
 
