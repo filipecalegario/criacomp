@@ -23,6 +23,7 @@
 ## Posts to be read
 
 * [Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan \ Anthropic](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan)
+* [Opinion | The Government Knows A.G.I. Is Coming - The New York Times](https://archive.ph/UGfvQ#selection-1419.8-1419.68): an edited transcript of an episode of “The Ezra Klein Show.”
 
 ## Courses to be taken
 
@@ -55,6 +56,8 @@
 * [Adam Silverman (Hiring!) 🖇️ on X: "Everyone is talking about MCP. I summarized all the MCP announcements/launches from Composio, Firecrawl, Cursor, Jira, Langchain, Firebase, and more Send to your engineering team (save for later) https://t.co/x5zgVcariR" / X](https://x.com/AtomSilverman/status/1897409286466363626)
 * [Jordan Mix on X: "What even is MCP? Why am I bookmarking endless MCP posts without having a clue about what it is. FOMO? I wanna know tho. Send help." / X](https://x.com/jrdnmix/status/1897015411805446638)
 * [Matt Wolfe on X: "MCPs (Model Context Protocols) are the AI buzzword of the moment. If you’re into “vibe coding” or want to connect your Claude to external tools, this is a pretty big unlock. I found this thread about them valuable…" / X](https://x.com/mreflow/status/1897317957539389593)
+* [Santiago on X: "Anthropic's MCP is a thing of beauty. This makes AI agents 100x more powerful. MCP stands for "Model Context Protocol." It's an open standard for connecting AI with data. Instead of worrying about 10,000 different ways to do the same thing, MCP provides a standard approach. •" / X](https://x.com/svpino/status/1896991534421307570)
+* [Alex Volkov (Thursd/AI) on X: "ok I'm MCP pilled, who's been using them for a while now? Who's written their own? Who do I need to follow to help me prepare for @thursdai_pod talking about MCPs? https://t.co/Ai7fOi19Ar" / X](https://x.com/altryne/status/1897051777352294424)
 
 ## About Embeddings
 
