@@ -13,6 +13,8 @@
 
 ## Posts to be read
 
+* [Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan \ Anthropic](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan)
+
 ## Courses to be taken
 
 * [The Hugging Face Agents Course](https://huggingface.co/agents-course)
