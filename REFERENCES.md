@@ -34,6 +34,7 @@
 * [The Top 100 Gen AI Consumer Apps - 4th Edition | Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-4/)
 * [From Prompt to Product: The Rise of AI-Powered Web App Builders | Andreessen Horowitz](https://a16z.com/ai-web-app-builders/)
 * [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
+* [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 
 ## Courses to be taken
 
@@ -86,6 +87,10 @@
 * [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 * [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+
+## Cursor MDC Rules Hype
+
+* [Aadit Sheth on X: "This guy literally writes Cursor rules so AI follows project conventions perfectly—watch in 15 mins https://t.co/AGidX7qdx4" / X](https://x.com/aaditsh/status/1897875427383033956)
 
 ## Cursor MDC Rules Deep Investigation
 
