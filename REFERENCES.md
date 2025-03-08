@@ -77,6 +77,7 @@
     * These servers are built by the community and are hosted by Composio
   * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
   * [Open-Source MCP servers | Glama](https://glama.ai/mcp/servers)
+  * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
 * [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
   * Resources, prompts, and tools
 * [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
@@ -97,6 +98,7 @@
 ## Cursor MDC Rules Deep Investigation
 
 * [bmadcode/cursor-auto-rules-agile-workflow](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template
+* [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
 
 ## Cursor Deep Investigation
 
