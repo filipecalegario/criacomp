@@ -75,6 +75,7 @@
 * Add Supabase to Cursor via MCP
   * [https://t.co/aQITshj3Er" / X](https://x.com/dshukertjr/status/1896531501514109056)
 * [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg): AI Engineer Summit workshop
+* [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 
 ## Cursor MDC Rules Deep Investigation
 
