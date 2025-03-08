@@ -13,6 +13,7 @@
 * [Hello FastHTML and MonsterUI - Drew Echerd's Blog](https://www.drewecherd.com/post/hello-fasthtml-monsterui): a powerful combination for building modern web applications in Python
 * [Poe](https://poe.com/)
 * [CopyCoder](https://copycoder.ai/): Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
+* [Manus](https://manus.im/): Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results.
 
 ## Videos to be watched
 
