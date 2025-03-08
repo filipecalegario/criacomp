@@ -63,6 +63,26 @@
 * [will brown on X: "claude is building his own MCP tool setup in public https://t.co/Ug8pnD31j7" / X](https://x.com/willccbb/status/1896778724194062830)
 * [jason liu (NY 2/18-3/3) on X: "MCP vs OpenAPI https://t.co/eJBGLhSovE" / X](https://x.com/jxnlco/status/1897338699672859094)
 
+### MCP Deeper Investigation
+
+* [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
+  * an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.
+  * developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
+* [Model Context Protocol](https://github.com/modelcontextprotocol): Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.
+* [Introduction - Model Context Protocol](https://modelcontextprotocol.io/introduction)
+  * Think of MCP like a USB-C port for AI applications.
+  * MCP helps you build agents and complex workflows on top of LLMs.
+* Examples
+  * [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
+  * [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
+* List of Servers
+  * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
+  * [Awesome MCP Servers](https://mcpservers.org/)
+  * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+* [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
+* [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
+  * Attention for the use of llms-full.txt pattern!
+  
 ## About Embeddings
 
 * [(416) The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
