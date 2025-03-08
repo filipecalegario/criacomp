@@ -18,6 +18,7 @@
 * [Tempo Labs](https://www.tempo.new/)
   * [In 5 minutes, you can build a SAAS with Nextjs, Supabase and Stripe / X](https://x.com/rasmickyy/status/1897684287136182475)
 * [Hedra](https://www.hedra.com/): multimodal content creation platform
+* [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100): Standard Open Arm 100
 
 ## Videos to be watched
 
@@ -32,6 +33,7 @@
 * [Opinion | The Government Knows A.G.I. Is Coming - The New York Times](https://archive.ph/UGfvQ#selection-1419.8-1419.68): an edited transcript of an episode of “The Ezra Klein Show.”
 * [The Top 100 Gen AI Consumer Apps - 4th Edition | Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-4/)
 * [From Prompt to Product: The Rise of AI-Powered Web App Builders | Andreessen Horowitz](https://a16z.com/ai-web-app-builders/)
+* [Open-source DeepResearch – Freeing our search agents](https://huggingface.co/blog/open-deep-research)
 
 ## Courses to be taken
 
