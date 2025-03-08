@@ -90,6 +90,7 @@
 * [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 * [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+* [sshtunnelvision/MCP-LOGO-GEN](https://github.com/sshtunnelvision/MCP-LOGO-GEN): provides logo generation capabilities using FAL AI
 
 ## Cursor MDC Rules Hype
 
