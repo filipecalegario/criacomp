@@ -110,6 +110,7 @@
 ## Ideas for CRIACOMP groups
 
 * [Blog/articles/multi_agents.md at main · YukoOshima/Blog](https://github.com/YukoOshima/Blog/blob/main/articles/multi_agents.md): a multi-agent setup for generating and validating flash cards.
+* [Evidently AI - ML and LLM system design](https://www.evidentlyai.com/ml-system-design): 500 case studies
 
 ## FOR FURTHER ANALYSIS
 
