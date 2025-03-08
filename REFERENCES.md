@@ -63,7 +63,7 @@
 * [will brown on X: "claude is building his own MCP tool setup in public https://t.co/Ug8pnD31j7" / X](https://x.com/willccbb/status/1896778724194062830)
 * [jason liu (NY 2/18-3/3) on X: "MCP vs OpenAPI https://t.co/eJBGLhSovE" / X](https://x.com/jxnlco/status/1897338699672859094)
 
-### MCP Deeper Investigation
+### MCP Deep Investigation
 
 * [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
   * an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.
@@ -82,6 +82,8 @@
 * [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
 * [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
   * Attention for the use of llms-full.txt pattern!
+
+## Cursor MDC Rules Deep Investigation
   
 ## About Embeddings
 
