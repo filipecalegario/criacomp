@@ -14,6 +14,7 @@
 * [Poe](https://poe.com/)
 * [CopyCoder](https://copycoder.ai/): Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
 * [Manus](https://manus.im/): Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results.
+* [OpenRouter](https://openrouter.ai/): A unified interface for LLMs
 
 ## Videos to be watched
 
