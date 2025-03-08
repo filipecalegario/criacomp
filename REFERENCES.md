@@ -48,15 +48,7 @@
 
 # Thematic References
 
-## MCP Hype
-
-* [Matt Wolfe on X: "MCPs (Model Context Protocols) are the AI buzzword of the moment. If you’re into “vibe coding” or want to connect your Claude to external tools, this is a pretty big unlock. I found this thread about them valuable…" / X](https://x.com/mreflow/status/1897317957539389593)
-* [Santiago on X: "Anthropic's MCP is a thing of beauty. This makes AI agents 100x more powerful. MCP stands for "Model Context Protocol." It's an open standard for connecting AI with data. Instead of worrying about 10,000 different ways to do the same thing, MCP provides a standard approach. •" / X](https://x.com/svpino/status/1896991534421307570)
-* [Alex Volkov (Thursd/AI) on X: "ok I'm MCP pilled, who's been using them for a while now? Who's written their own? Who do I need to follow to help me prepare for @thursdai_pod talking about MCPs? https://t.co/Ai7fOi19Ar" / X](https://x.com/altryne/status/1897051777352294424)
-* [will brown on X: "claude is building his own MCP tool setup in public https://t.co/Ug8pnD31j7" / X](https://x.com/willccbb/status/1896778724194062830)
-* [jason liu (NY 2/18-3/3) on X: "MCP vs OpenAPI https://t.co/eJBGLhSovE" / X](https://x.com/jxnlco/status/1897338699672859094)
-
-### MCP Deep Investigation
+## MCP Deep Investigation
 
 * [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
   * an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.
@@ -86,6 +78,11 @@
 ## Cursor MDC Rules Deep Investigation
 
 * [bmadcode/cursor-auto-rules-agile-workflow](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template
+
+## Cursor Deep Investigation
+
+* [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools): Give Cursor Agent an AI Team and Advanced Skills
+* YOLO Mode allows Cursor to execute commands without user confirmation. Apparently, YOLO stands for "You Only Look Once". I remember there is a real-time object detection system with the same name.
   
 ## About Embeddings
 
