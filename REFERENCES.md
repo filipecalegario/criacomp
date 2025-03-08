@@ -17,6 +17,7 @@
 * [OpenRouter](https://openrouter.ai/): A unified interface for LLMs
 * [Tempo Labs](https://www.tempo.new/)
   * [In 5 minutes, you can build a SAAS with Nextjs, Supabase and Stripe / X](https://x.com/rasmickyy/status/1897684287136182475)
+* [Hedra](https://www.hedra.com/): multimodal content creation platform
 
 ## Videos to be watched
 
