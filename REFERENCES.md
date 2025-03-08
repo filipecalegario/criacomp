@@ -50,13 +50,6 @@
 
 ## MCP Hype
 
-* [Karan Vaidya on X: "Automate Customer Support entirely with Cursor + MCP!! Cursor Agent can now autonomously fetch emails, solve code issues with codebase indexing and reply to these emails. Here's how you can do it in just 2 mins, - Go to Composio's MCP directory - Click on the Gmail app and copy https://t.co/DbQfwz1U1Q" / X](https://x.com/KaranVaidya6/status/1897690146725839193)
-* [Karan Vaidya on X: "Setup MCP on Cursor with Google Docs in less than 2 mins!! I used Cursor to create PRDs in Google Docs Here's how you can do it too: - Go to the @composiohq MCP directory - Search for Google Docs and grab your sse URL - Paste the URL and set up MCP in Cursor - Use Cursor https://t.co/UDRRpDy1AL" / X](https://x.com/KaranVaidya6/status/1897344383240060955)
-* [Matt Pocock on X: "Lots of folks feeling FOMO about MCP. Here's the problem it solves: https://t.co/UszaGAsOUD" / X](https://x.com/mattpocockuk/status/1897742389592440970)
-* [Robert Lukoszko on X: "MCP is really powerful. I made for myself in 1 day workflow to: 1. scrape linkedin profile 2. send personalized invitation letter with for my product 3. Scrape email from apollo. send it 4. Update notion CRM! If you guys need i can make it open source https://t.co/qQHwfK9ESN" / X](https://x.com/Karmedge/status/1897392194572705988)
-* [John Rush on X: "What is MCP &amp; why it's a big (huge) deal: (model context protocol) TLDR: MCP makes it possible for AI Tools to use external tools. E.g. Chatbot/IDE/AI-Agent can use Gmail/GoogleDrive/WeatherApp etc. Detailed explanation for both, tech &amp; non tech people (+demos): 1) AI Tools https://t.co/eC1E9sxrDq" / X](https://x.com/johnrushx/status/1897655569101779201)
-* [Adam Silverman (Hiring!) 🖇️ on X: "Everyone is talking about MCP. I summarized all the MCP announcements/launches from Composio, Firecrawl, Cursor, Jira, Langchain, Firebase, and more Send to your engineering team (save for later) https://t.co/x5zgVcariR" / X](https://x.com/AtomSilverman/status/1897409286466363626)
-* [Jordan Mix on X: "What even is MCP? Why am I bookmarking endless MCP posts without having a clue about what it is. FOMO? I wanna know tho. Send help." / X](https://x.com/jrdnmix/status/1897015411805446638)
 * [Matt Wolfe on X: "MCPs (Model Context Protocols) are the AI buzzword of the moment. If you’re into “vibe coding” or want to connect your Claude to external tools, this is a pretty big unlock. I found this thread about them valuable…" / X](https://x.com/mreflow/status/1897317957539389593)
 * [Santiago on X: "Anthropic's MCP is a thing of beauty. This makes AI agents 100x more powerful. MCP stands for "Model Context Protocol." It's an open standard for connecting AI with data. Instead of worrying about 10,000 different ways to do the same thing, MCP provides a standard approach. •" / X](https://x.com/svpino/status/1896991534421307570)
 * [Alex Volkov (Thursd/AI) on X: "ok I'm MCP pilled, who's been using them for a while now? Who's written their own? Who do I need to follow to help me prepare for @thursdai_pod talking about MCPs? https://t.co/Ai7fOi19Ar" / X](https://x.com/altryne/status/1897051777352294424)
@@ -79,11 +72,20 @@
   * [modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
   * [Awesome MCP Servers](https://mcpservers.org/)
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+  * [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
+    * These servers are built by the community and are hosted by Composio
 * [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
+  * Resources, prompts, and tools
 * [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
   * Attention for the use of llms-full.txt pattern!
+* [https://t.co/t3tTSTr02y" / X](https://x.com/mckaywrigley/status/1898109392341385509)
+  * Now more often local servers. In the future, hosted servers and auth.
+* Add Supabase to Cursor via MCP
+  * [https://t.co/aQITshj3Er" / X](https://x.com/dshukertjr/status/1896531501514109056)
 
 ## Cursor MDC Rules Deep Investigation
+
+* [bmadcode/cursor-auto-rules-agile-workflow](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template
   
 ## About Embeddings
 
