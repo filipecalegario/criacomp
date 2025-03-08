@@ -75,6 +75,8 @@
   * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
   * [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
     * These servers are built by the community and are hosted by Composio
+  * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
+  * [Open-Source MCP servers | Glama](https://glama.ai/mcp/servers)
 * [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
   * Resources, prompts, and tools
 * [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
