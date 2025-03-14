@@ -19,6 +19,7 @@
   * [In 5 minutes, you can build a SAAS with Nextjs, Supabase and Stripe / X](https://x.com/rasmickyy/status/1897684287136182475)
 * [Hedra](https://www.hedra.com/): multimodal content creation platform
 * [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100): Standard Open Arm 100
+* [LatentLit](https://latentlit.goodfire.ai/)
 
 ## Videos to be watched
 
