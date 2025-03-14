@@ -20,6 +20,7 @@
 * [Hedra](https://www.hedra.com/): multimodal content creation platform
 * [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100): Standard Open Arm 100
 * [LatentLit](https://latentlit.goodfire.ai/)
+* [Best AI research assistant | AnswerThis](https://answerthis.io/228348/ask-answerthis)
 
 ## Videos to be watched
 
