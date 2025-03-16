@@ -26,6 +26,7 @@
 
 * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s): Andrej Karpathy
 * [How to build & deploy agents, according to OpenAI - YouTube](https://www.youtube.com/watch?v=joHR2pmxDQE): AI Engineer Summit
+* [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&list=PLuRtQ3WoxpLGRXn3kDbXS445lxNg3VurJ&index=3&t=11s): AI Engineer Summit
 
 ## Papers to be read
 
