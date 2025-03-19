@@ -21,6 +21,7 @@
 * [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100): Standard Open Arm 100
 * [LatentLit](https://latentlit.goodfire.ai/)
 * [Best AI research assistant | AnswerThis](https://answerthis.io/228348/ask-answerthis)
+* [shuruheel/mcp-neo4j-shan at psych-schema](https://github.com/shuruheel/mcp-neo4j-shan/tree/psych-schema): A sophisticated knowledge graph memory system that stores interconnected information with rich semantic structure using Neo4j.
 
 ## Videos to be watched
 
