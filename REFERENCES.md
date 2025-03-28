@@ -19,16 +19,22 @@
   * [In 5 minutes, you can build a SAAS with Nextjs, Supabase and Stripe / X](https://x.com/rasmickyy/status/1897684287136182475)
 * [Hedra](https://www.hedra.com/): multimodal content creation platform
 * [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100): Standard Open Arm 100
+* [LatentLit](https://latentlit.goodfire.ai/)
+* [Best AI research assistant | AnswerThis](https://answerthis.io/228348/ask-answerthis)
+* [shuruheel/mcp-neo4j-shan at psych-schema](https://github.com/shuruheel/mcp-neo4j-shan/tree/psych-schema): A sophisticated knowledge graph memory system that stores interconnected information with rich semantic structure using Neo4j.
 
 ## Videos to be watched
 
 * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s): Andrej Karpathy
 * [How to build & deploy agents, according to OpenAI - YouTube](https://www.youtube.com/watch?v=joHR2pmxDQE): AI Engineer Summit
+* [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&list=PLuRtQ3WoxpLGRXn3kDbXS445lxNg3VurJ&index=3&t=11s): AI Engineer Summit
 
 ## Papers to be read
 
 ## Posts to be read
 
+* [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
+* [🔥][Creative Exploration with Reasoning LLMs](https://www.joelsimon.net/lluminate)
 * [Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan \ Anthropic](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan)
 * [Opinion | The Government Knows A.G.I. Is Coming - The New York Times](https://archive.ph/UGfvQ#selection-1419.8-1419.68): an edited transcript of an episode of “The Ezra Klein Show.”
 * [The Top 100 Gen AI Consumer Apps - 4th Edition | Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-4/)
