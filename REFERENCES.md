@@ -63,6 +63,10 @@
 
 # Thematic References
 
+## MCP Inbox
+
+* [10 awesome MCP servers / X](https://x.com/Saboo_Shubham_/status/1905455781761483093)
+
 ## MCP Deep Investigation
 
 * [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
