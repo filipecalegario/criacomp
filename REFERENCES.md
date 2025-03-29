@@ -67,6 +67,7 @@
 ## MCP Inbox
 
 * [10 awesome MCP servers / X](https://x.com/Saboo_Shubham_/status/1905455781761483093)
+* [Zapier MCP](https://zapier.com/mcp): Connect your AI to any app with Zapier MCP
 
 ## MCP Deep Investigation
 
@@ -104,7 +105,13 @@
 * [sshtunnelvision/MCP-LOGO-GEN](https://github.com/sshtunnelvision/MCP-LOGO-GEN): provides logo generation capabilities using FAL AI
 * [Model context protocol (MCP) - OpenAI Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 
-## Cursor MDC Rules Hype
+## llm-txt Inbox
+
+* [LLMs.txt Explained | TDS Archive](https://medium.com/data-science/llms-txt-414d5121bcb3)
+* [LLMS-txt](https://langchain-ai.github.io/langgraph/llms-txt-overview/)
+* [/llms.txt directory – A growing list of sites adopting the emerging llms.txt standard! : r/LLMDevs](https://www.reddit.com/r/LLMDevs/comments/1gufa05/llmstxt_directory_a_growing_list_of_sites/)
+
+## Cursor MDC Rules Inbox
 
 * [Aadit Sheth on X: "This guy literally writes Cursor rules so AI follows project conventions perfectly—watch in 15 mins https://t.co/AGidX7qdx4" / X](https://x.com/aaditsh/status/1897875427383033956)
 
