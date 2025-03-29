@@ -27,6 +27,7 @@
 * [Mureka](https://www.mureka.ai/): music generator
 * [Vectorizer.AI](https://vectorizer.ai/): convert PNG, JPG files to SVG vectors online
 * [Recraft](https://www.recraft.ai/): Infinite AI Artboard
+* [Rive](https://rive.app/): a new way to design, build, and ship user interfaces
 
 ## Videos to be watched
 
