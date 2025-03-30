@@ -80,6 +80,7 @@
 * [Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/)
 * [Build a Remote MCP server · Cloudflare Agents docs](https://developers.cloudflare.com/agents/guides/remote-mcp-server/)
 * [ai/demos at main · cloudflare/ai](https://github.com/cloudflare/ai/tree/main/demos)
+* [Workers AI LLM Playground](https://playground.ai.cloudflare.com/)
 
 ## MCP Deep Investigation
 
