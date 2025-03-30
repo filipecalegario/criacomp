@@ -74,6 +74,7 @@
 * [10 awesome MCP servers / X](https://x.com/Saboo_Shubham_/status/1905455781761483093)
 * [Zapier MCP](https://zapier.com/mcp): Connect your AI to any app with Zapier MCP
 * [MCP: What It Is and Why It Matters - by Addy Osmani](https://addyo.substack.com/p/mcp-what-it-is-and-why-it-matters)
+* [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway): Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 
 ## MCP Deep Investigation
 
