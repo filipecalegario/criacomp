@@ -78,6 +78,7 @@
 * [sidharthrajaram/mcp-sse: A working pattern for SSE-based MCP clients and servers](https://github.com/sidharthrajaram/mcp-sse)
 * [Building a Server-Sent Events (SSE) MCP Server with FastAPI](https://www.ragie.ai/blog/building-a-server-sent-events-sse-mcp-server-with-fastapi)
 * [Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/)
+* [Build a Remote MCP server · Cloudflare Agents docs](https://developers.cloudflare.com/agents/guides/remote-mcp-server/)
 
 ## MCP Deep Investigation
 
