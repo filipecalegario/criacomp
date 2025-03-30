@@ -75,6 +75,9 @@
 * [Zapier MCP](https://zapier.com/mcp): Connect your AI to any app with Zapier MCP
 * [MCP: What It Is and Why It Matters - by Addy Osmani](https://addyo.substack.com/p/mcp-what-it-is-and-why-it-matters)
 * [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway): Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
+* [sidharthrajaram/mcp-sse: A working pattern for SSE-based MCP clients and servers](https://github.com/sidharthrajaram/mcp-sse)
+* [Building a Server-Sent Events (SSE) MCP Server with FastAPI](https://www.ragie.ai/blog/building-a-server-sent-events-sse-mcp-server-with-fastapi)
+* [Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/)
 
 ## MCP Deep Investigation
 
