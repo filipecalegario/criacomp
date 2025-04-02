@@ -81,6 +81,7 @@
 * [Build a Remote MCP server · Cloudflare Agents docs](https://developers.cloudflare.com/agents/guides/remote-mcp-server/)
 * [ai/demos at main · cloudflare/ai](https://github.com/cloudflare/ai/tree/main/demos)
 * [Workers AI LLM Playground](https://playground.ai.cloudflare.com/)
+* [Node: Model Context Protocol (MCP) Tools](https://sdk.vercel.ai/cookbook/node/mcp-tools)
 
 ## MCP Deep Investigation
 
