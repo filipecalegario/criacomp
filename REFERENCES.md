@@ -54,6 +54,7 @@
 * [The Reasoning Course - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter12/1?fw=pt)
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 * [CSE 291 - AI Agents - UCSD CSE](https://pearls-lab.github.io/ai-agents-course/index.html)
+* [OpenAI Academy](https://academy.openai.com/)
 
 ## Catalog for more references (branching factor)
 
