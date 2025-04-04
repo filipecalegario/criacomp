@@ -28,6 +28,7 @@
 * [Vectorizer.AI](https://vectorizer.ai/): convert PNG, JPG files to SVG vectors online
 * [Recraft](https://www.recraft.ai/): Infinite AI Artboard
 * [Rive](https://rive.app/): a new way to design, build, and ship user interfaces
+* 🔥 [Manus](https://manus.im/app)
 
 ## Videos to be watched
 
@@ -83,6 +84,7 @@
 * [ai/demos at main · cloudflare/ai](https://github.com/cloudflare/ai/tree/main/demos)
 * [Workers AI LLM Playground](https://playground.ai.cloudflare.com/)
 * [Node: Model Context Protocol (MCP) Tools](https://sdk.vercel.ai/cookbook/node/mcp-tools)
+* [MCP Search](https://mcp-search.dev/)
 
 ## MCP Deep Investigation
 
