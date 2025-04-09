@@ -30,6 +30,7 @@
 * [Rive](https://rive.app/): a new way to design, build, and ship user interfaces
 * 🔥 [Manus](https://manus.im/app)
 * [OpenAI Evals API](https://x.com/OpenAIDevs/status/1909721613853139353)
+* [LangGraph Builder](https://build.langchain.com/)
 
 ## Videos to be watched
 
