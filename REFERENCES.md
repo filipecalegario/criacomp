@@ -29,6 +29,7 @@
 * [Recraft](https://www.recraft.ai/): Infinite AI Artboard
 * [Rive](https://rive.app/): a new way to design, build, and ship user interfaces
 * 🔥 [Manus](https://manus.im/app)
+* [OpenAI Evals API](https://x.com/OpenAIDevs/status/1909721613853139353)
 
 ## Videos to be watched
 
