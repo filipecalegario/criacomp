@@ -32,6 +32,7 @@
 * [OpenAI Evals API](https://x.com/OpenAIDevs/status/1909721613853139353)
 * [LangGraph Builder](https://build.langchain.com/)
 * [Firebase Studio](https://studio.firebase.google.com/)
+* [Napkins.dev – Screenshot to code](https://www.napkins.dev/)
 
 ## Videos to be watched
 
