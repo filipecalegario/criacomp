@@ -31,6 +31,7 @@
 * 🔥 [Manus](https://manus.im/app)
 * [OpenAI Evals API](https://x.com/OpenAIDevs/status/1909721613853139353)
 * [LangGraph Builder](https://build.langchain.com/)
+* [Firebase Studio](https://studio.firebase.google.com/)
 
 ## Videos to be watched
 
