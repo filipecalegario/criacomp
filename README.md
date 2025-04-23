@@ -85,8 +85,8 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 
 ## 📎 Links Úteis
 - Repositório com exemplos, guias e materiais: [este GitHub que você está lendo]
-- Comunicações por e-mail: <fcac at cin.ufpe.br>
-- Ferramentas em destaque serão atualizadas aqui no repositório semanalmente.
+- Comunicações por Google Classroom, Discord e e-mail
+- Tendências e notícias serão atualizadas aqui no repositório semanalmente.
 
 ---
 
