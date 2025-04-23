@@ -73,15 +73,15 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 
 ## 🧠 O que você vai aprender
 
-- Uso criativo de IA generativa (LLMs, modelos de imagem, áudio e vídeo)
 - Conceitos básicos relacionados à IA generativa e grandes modelos de linguagem
-- Formas de comparar ferramentas e plataformas
-- Criação de interfaces para sistemas com IA generativa
+- Uso criativo de IA generativa (LLMs, modelos de imagem, áudio e vídeo)
+- Formas de comparar ferramentas, plataformas, modelos e bibliotecas de IA generativa
+- Criação de interfaces para sistemas com IA generativa e integração com APIs ou módulos de desenvolvimento
 - Reflexões sobre criatividade assistida e colaboração humano-IA
 - Questões éticas relacionadas ao uso de IA generativa
 - Técnicas de design para **encapsulamento de complexidade** em ferramentas de criatividade computacional
 
-> ❗ Esta disciplina **não cobre arquiteturas de redes neurais ou treinamento de modelos**. O foco é no uso, integração e impacto criativo.
+> ❗ Esta disciplina **não cobre detalhes de arquiteturas de redes neurais ou treinamento de modelos**. O foco é no uso, integração e impacto criativo.
 
 ## 📎 Links Úteis
 - Repositório com exemplos, guias e materiais: [este GitHub que você está lendo]
