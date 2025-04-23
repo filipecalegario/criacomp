@@ -34,7 +34,7 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 
 > ❗ Esta disciplina **não tem avaliação baseada em provas**. O foco é na realização de atividades práticas e projetos.
 
-## 🔥 Projetos de Períodos Anteriores
+## 🔥 Projetos Finais de Períodos Anteriores
 
 ### 📆 2024.2
 - **EducaHits**: Matérias escolares viram música.
