@@ -1,6 +1,6 @@
 # Criatividade Computacional: IA Generativa na Prática
 
-Bem-vindo(a) ao repositório da disciplina **Criatividade Computacional (IF866)** do Centro de Informática da UFPE.
+Bem-vinda e bem-vindo ao repositório da disciplina **Criatividade Computacional (IF866)** do Centro de Informática da UFPE.
 
 ## ℹ Sobre a Disciplina
 
