@@ -1,8 +1,8 @@
-# 🌟 Criatividade Computacional: IA Generativa na Prática
+# Criatividade Computacional: IA Generativa na Prática
 
 Bem-vindo(a) ao repositório da disciplina **Criatividade Computacional (IF866)** do Centro de Informática da UFPE.
 
-## ✨ Sobre a Disciplina
+## ℹ Sobre a Disciplina
 
 Esta é uma disciplina experimental que promove a integração entre **tecnologias de IA generativa** e o **processo criativo humano**. A disciplina tem um enfoque prático, voltado para o **uso criativo, reflexivo e inovador de ferramentas de IA**, com ênfase em interfaces, experimentação multimodal e impacto real no processo criativo.
 
@@ -13,9 +13,9 @@ Esta é uma disciplina experimental que promove a integração entre **tecnologi
 - Exploração crítica sobre **ética**, **autorais**, **impactos sociais** e **interações humano-IA**
 - Entregas práticas e feedback contínuo sobre os projetos
 
-## 📚 Estrutura da Disciplina
+## 📚 Estrutura de Avaliação
 
-A disciplina é dividida em **três grandes fases**:
+A avaliação da disciplina é dividida em **três grandes fases**:
 
 ### 1. Atividades Exploratórias (individuais)
 - Objetivo: Introduzir as principais ferramentas multimodais de IA generativa.
@@ -32,7 +32,7 @@ A disciplina é dividida em **três grandes fases**:
 - Formato: Grupos desenvolvem uma ferramenta para ser usada por pessoas externas ao grupo
 - Foco: Interface, integração, usabilidade, experiência de uso e disponibilidade
 
-> 💡 Aqui os alunos deixam de ser apenas usuários e passam a ser **desenvolvedores de experiências criativas assistidas por IA**.
+> ❗ Esta disciplina **não tem avaliação baseada em provas**. O foco é na realização de atividades práticas e projetos.
 
 ## 🔥 Projetos de Períodos Anteriores
 
@@ -74,11 +74,12 @@ A disciplina é dividida em **três grandes fases**:
 ## 🧠 O que você vai aprender
 
 - Uso criativo de IA generativa (LLMs, modelos de imagem, áudio e vídeo)
-- Comparação entre ferramentas e plataformas
-- Criação de interfaces para sistemas com IA
+- Conceitos básicos relacionados à IA generativa e grandes modelos de linguagem
+- Formas de comparar ferramentas e plataformas
+- Criação de interfaces para sistemas com IA generativa
 - Reflexões sobre criatividade assistida e colaboração humano-IA
-- Questões éticas relacionadas ao uso de IA
-- Técnicas de design para **encapsulamento de complexidade** em ferramentas.
+- Questões éticas relacionadas ao uso de IA generativa
+- Técnicas de design para **encapsulamento de complexidade** em ferramentas de criatividade computacional
 
 > ❗ Esta disciplina **não cobre arquiteturas de redes neurais ou treinamento de modelos**. O foco é no uso, integração e impacto criativo.
 
