@@ -36,7 +36,9 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 
 ## 🔥 Projetos Finais de Períodos Anteriores
 
-### 📆 2024.2
+<details>
+  <summary><strong>📆 2024.2</strong></summary>
+
 - **EducaHits**: Matérias escolares viram música.
 - **PrintItAll!**: Modelos 3D gerados com uma única imagem.
 - **Cybersong**: Criar vídeos a partir de músicas.
@@ -48,7 +50,10 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 - **MemeficaAI BR**: Geração de vídeos a partir de áudios de memes.
 - **Tas Sabendo?**: Podcasts viram resumos e flashcards.
 
-### 📆 2024.1
+</details>
+<details>
+  <summary><strong>📆 2024.1</strong></summary>
+
 - **Chatbot Hoteleiro**: Assistente automatizado para hotéis.
 - **CInLogos**: Logos e jingles gerados por IA.
 - **PodcastGen**: Transformação de notícias em podcasts.
@@ -60,7 +65,10 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 - **ReceitIA**: Receitas e vídeos gerados a partir de ingredientes.
 - **Narrativas Inovadoras**: HQs viram filmes interativos.
 
-### 📆 2023.2
+</details>
+<details>
+  <summary><strong>📆 2023.2</strong></summary>
+
 - **FlashFlow**: Flashcards para medicina.
 - **capivar.ia**: Newsletters automatizadas.
 - **Monkey Typewriter**: Sistema de apoio à escrita criativa.
@@ -70,6 +78,8 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 - **Apollo.mp3**: Singles e capas a partir de texto e imagem.
 - **comedIAds**: Comerciais gerados a partir do nome do produto.
 - **SeasonAI Dress**: Coleções de roupas por paleta e estilo.
+
+</details>
 
 ## 🧠 O que você vai aprender
 
