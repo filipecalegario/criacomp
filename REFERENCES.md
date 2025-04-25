@@ -33,6 +33,7 @@
 * [LangGraph Builder](https://build.langchain.com/)
 * [Firebase Studio](https://studio.firebase.google.com/)
 * [Napkins.dev – Screenshot to code](https://www.napkins.dev/)
+* [emcie-co/parlant](https://github.com/emcie-co/parlant): Control GenAI interactions with power, precision, and consistency using Conversation Modeling paradigms
 
 ## Videos to be watched
 
