@@ -71,6 +71,7 @@
 
 ## Tested Tools
 
+* [Home | Lemon Slice (formerly Infinity AI)](https://lemonslice.com/): good time response and animation. not perfect but really usable.
 * [microsoft/TinyTroupe: LLM-powered multiagent persona simulation for imagination enhancement and business insights](https://github.com/microsoft/TinyTroupe): defining characters and simulating their interaction
 * [UVR5 UI - a Hugging Face Space by TheStinger](https://huggingface.co/spaces/TheStinger/UVR5_UI): music source separation with multiple models. A good one to separate voice BS-Roformer-Viperx-1296
 * [Di♪♪Rhythm - a Hugging Face Space by ASLP-lab](https://huggingface.co/spaces/ASLP-lab/DiffRhythm): input lyrics with timestamps. English-only.
