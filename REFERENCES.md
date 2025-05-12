@@ -92,6 +92,7 @@
 * [Workers AI LLM Playground](https://playground.ai.cloudflare.com/)
 * [Node: Model Context Protocol (MCP) Tools](https://sdk.vercel.ai/cookbook/node/mcp-tools)
 * [MCP Search](https://mcp-search.dev/)
+* [A Critical Look at MCP - Raz Blog](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 
 ## MCP Deep Investigation
 
