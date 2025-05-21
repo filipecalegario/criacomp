@@ -36,6 +36,7 @@
 * [emcie-co/parlant](https://github.com/emcie-co/parlant): Control GenAI interactions with power, precision, and consistency using Conversation Modeling paradigms
 * [Flowise - Build AI Agents, Visually](https://cloud.flowiseai.com/evaluators)
 * [Stitch - Design with AI](https://stitch.withgoogle.com/)
+* [Google Gemini Diffusion Instant Editor](https://deepmind.google.com/frontiers/u/1/gemini-diffusion/instant-editor)
 
 ## Videos to be watched
 
