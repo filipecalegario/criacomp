@@ -40,6 +40,8 @@
 * https://www.anthropic.com/research/open-source-circuit-tracing
 * https://x.com/_weexiao/status/1928150048120131698?s=46
 * https://x.com/etiennefd/status/1928279776478781698?s=46
+* https://x.com/ai_for_success/status/1928530258682327511?s=46
+
 
 ## Videos to be watched
 
