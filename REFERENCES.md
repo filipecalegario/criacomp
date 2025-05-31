@@ -37,6 +37,8 @@
 * [Flowise - Build AI Agents, Visually](https://cloud.flowiseai.com/evaluators)
 * [Stitch - Design with AI](https://stitch.withgoogle.com/)
 * [Google Gemini Diffusion Instant Editor](https://deepmind.google.com/frontiers/u/1/gemini-diffusion/instant-editor)
+* https://www.anthropic.com/research/open-source-circuit-tracing
+
 
 ## Videos to be watched
 
