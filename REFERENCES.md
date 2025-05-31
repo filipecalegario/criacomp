@@ -48,6 +48,7 @@
 * New DeepSeek R1 0528 
 * https://replicate.com/flux-kontext-apps/multi-image-kontext
 * https://x.com/ai_for_success/status/1928145310468972675?s=46
+* https://x.com/techhalla/status/1928438156191248717?s=46
 
 ## Videos to be watched
 
