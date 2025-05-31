@@ -4,6 +4,7 @@
 
 * ColBERT
 * ConstBERT
+* FLUX.1 Kontest
 
 ## Ideas to be implemented
 
