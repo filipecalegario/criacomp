@@ -40,6 +40,7 @@
 
 ### Quick adds
 
+* https://x.com/ollama/status/1928543644090249565?s=46
 * https://x.com/goodfireai/status/1928574301831151635?s=46
 * https://www.anthropic.com/research/open-source-circuit-tracing
 * https://x.com/_weexiao/status/1928150048120131698?s=46
