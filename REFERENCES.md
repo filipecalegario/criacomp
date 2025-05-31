@@ -57,6 +57,7 @@
 * https://x.com/ai_for_success/status/1928145310468972675?s=46
 * https://x.com/techhalla/status/1928438156191248717?s=46
 * https://x.com/aravsrinivas/status/1928141573977489452?s=46
+* https://x.com/krea_ai/status/1928458878578262019?s=46
 
 ## Videos to be watched
 
