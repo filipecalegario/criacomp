@@ -64,6 +64,7 @@
 
 ## Posts to be read
 
+* https://every.to/thesis/knowledge-work-is-dying-here-s-what-comes-next
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
 * [🔥][Creative Exploration with Reasoning LLMs](https://www.joelsimon.net/lluminate)
 * [Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan \ Anthropic](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan)
