@@ -1,5 +1,10 @@
 # Organized References 
 
+## Models to be tested
+
+* ColBERT
+* ConstBERT
+
 ## Ideas to be implemented
 
 * Use Claude 3.7 to create charts based on an input screenshot for a chart for inspiration and paste in the data
