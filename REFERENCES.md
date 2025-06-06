@@ -1,5 +1,13 @@
 # Organized References 
 
+## Flight Plans
+
+- Roteiro GenAI modo texto
+  - Karpathy on LLMs
+  - Animação Transformer
+  - Slides Modalidade Texto
+
+
 ## Models to be tested
 
 * ColBERT
