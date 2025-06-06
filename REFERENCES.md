@@ -87,6 +87,8 @@
 
 ## Posts to be read
 
+
+* 🔥 https://www.noemamag.com/ai-signals-the-death-of-the-author
 * https://every.to/thesis/knowledge-work-is-dying-here-s-what-comes-next
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
 * [🔥][Creative Exploration with Reasoning LLMs](https://www.joelsimon.net/lluminate)
