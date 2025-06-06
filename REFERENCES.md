@@ -76,6 +76,7 @@
 ## Videos to be watched
 
 * 🔥🔥 https://www.youtube.com/live/z4zXicOAF28?si=gI4vuUKLSJ6dI29o
+* https://youtu.be/rh2JRWsLGfg
 
 * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s): Andrej Karpathy
 * [How to build & deploy agents, according to OpenAI - YouTube](https://www.youtube.com/watch?v=joHR2pmxDQE): AI Engineer Summit
