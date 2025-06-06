@@ -6,6 +6,7 @@
   - Karpathy on LLMs
   - Animação Transformer
   - Slides Modalidade Texto
+- Limpeza das refs: archive
 
 
 ## Models to be tested
