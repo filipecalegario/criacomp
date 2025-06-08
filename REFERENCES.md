@@ -77,7 +77,6 @@
 * 🔥🔥 [AI Engineer World's Fair 2025 - Day 1 Keynotes & MCP track ft. Anthropic MCP team - YouTube](https://www.youtube.com/live/z4zXicOAF28)
 * [Building with Reasoning LLMs | n8n Agentic RAG Demo + Template - YouTube](https://www.youtube.com/watch?v=rh2JRWsLGfg)
 * [Harvard Professor Explains The Rules of Writing — Steven Pinker - YouTube](https://www.youtube.com/watch?v=nBQPnvmaNcE)
-
 * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s): Andrej Karpathy
 * [How to build & deploy agents, according to OpenAI - YouTube](https://www.youtube.com/watch?v=joHR2pmxDQE): AI Engineer Summit
 * [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&list=PLuRtQ3WoxpLGRXn3kDbXS445lxNg3VurJ&index=3&t=11s): AI Engineer Summit
