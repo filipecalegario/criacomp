@@ -14,6 +14,7 @@
 * ColBERT
 * ConstBERT
 * FLUX.1 Kontest
+* DeepSeek R1 0528
 
 ## Ideas to be implemented
 
@@ -62,7 +63,6 @@
 * https://x.com/etiennefd/status/1928279776478781698?s=46
 * https://x.com/ai_for_success/status/1928530258682327511?s=46
 * https://x.com/fal/status/1928545671159619972?s=46
-* New DeepSeek R1 0528 
 * https://replicate.com/flux-kontext-apps/multi-image-kontext
 * https://x.com/ai_for_success/status/1928145310468972675?s=46
 * https://x.com/techhalla/status/1928438156191248717?s=46
@@ -72,27 +72,27 @@
 * https://x.com/kalyan_kpl/status/1909534305593839657?s=46
 * https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art
 
-
 ## Videos to be watched
 
-* 🔥🔥 https://www.youtube.com/live/z4zXicOAF28?si=gI4vuUKLSJ6dI29o
-* https://youtu.be/rh2JRWsLGfg
+* 🔥🔥 [AI Engineer World's Fair 2025 - Day 1 Keynotes & MCP track ft. Anthropic MCP team - YouTube](https://www.youtube.com/live/z4zXicOAF28)
+* [Building with Reasoning LLMs | n8n Agentic RAG Demo + Template - YouTube](https://www.youtube.com/watch?v=rh2JRWsLGfg)
 * [Harvard Professor Explains The Rules of Writing — Steven Pinker - YouTube](https://www.youtube.com/watch?v=nBQPnvmaNcE)
 
 * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s): Andrej Karpathy
 * [How to build & deploy agents, according to OpenAI - YouTube](https://www.youtube.com/watch?v=joHR2pmxDQE): AI Engineer Summit
 * [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&list=PLuRtQ3WoxpLGRXn3kDbXS445lxNg3VurJ&index=3&t=11s): AI Engineer Summit
-* [🎯][How I reduced 90% errors for my Cursor (+ any other AI IDE) - YouTube](https://www.youtube.com/watch?v=1L509JK8p1I) 
+* 🎯 [How I reduced 90% errors for my Cursor (+ any other AI IDE) - YouTube](https://www.youtube.com/watch?v=1L509JK8p1I) 
 
 ## Papers to be read
 
+* [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity - Apple Machine Learning Research](https://machinelearning.apple.com/research/illusion-of-thinking)
+
 ## Posts to be read
 
-
-* 🔥 https://www.noemamag.com/ai-signals-the-death-of-the-author
-* https://every.to/thesis/knowledge-work-is-dying-here-s-what-comes-next
+* ✅🔥 [AI Signals The Death Of The Author - NOEMA](https://www.noemamag.com/ai-signals-the-death-of-the-author/)
+* [Knowledge Work Is Dying—Here’s What Comes Next](https://every.to/thesis/knowledge-work-is-dying-here-s-what-comes-next)
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
-* [🔥][Creative Exploration with Reasoning LLMs](https://www.joelsimon.net/lluminate)
+* 🔥 [Creative Exploration with Reasoning LLMs](https://www.joelsimon.net/lluminate)
 * [Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan \ Anthropic](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan)
 * [Opinion | The Government Knows A.G.I. Is Coming - The New York Times](https://archive.ph/UGfvQ#selection-1419.8-1419.68): an edited transcript of an episode of “The Ezra Klein Show.”
 * [The Top 100 Gen AI Consumer Apps - 4th Edition | Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-4/)
