@@ -4,7 +4,8 @@
 
 - Roteiro GenAI modo texto
   - Karpathy on LLMs
-    - [Deep Dive into LLMs like ChatGPT - YouTube](https://www.youtube.com/watch?v=7xTGNNLPyMI) 
+    - [Deep Dive into LLMs like ChatGPT - YouTube](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+    - [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s)
   - Animação Transformer
   - Slides Modalidade Texto
 - Limpeza das refs: archive
