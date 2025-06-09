@@ -9,7 +9,6 @@
   - [Tiktokenizer GPT-4o](https://tiktokenizer.vercel.app/?model=gpt-4o)
   - [FineWeb: decanting the web for the finest text data at scale - a Hugging Face Space by HuggingFaceFW](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
   - [LLM Visualization](https://bbycroft.net/llm)
-  - Animação Transformer
   - Slides Modalidade Texto
 - Limpeza das refs: archive
 
