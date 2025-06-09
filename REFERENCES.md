@@ -7,6 +7,7 @@
     - [Deep Dive into LLMs like ChatGPT - YouTube](https://www.youtube.com/watch?v=7xTGNNLPyMI)
     - [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=475s)
   - [Tiktokenizer GPT-4o](https://tiktokenizer.vercel.app/?model=gpt-4o)
+  - [FineWeb: decanting the web for the finest text data at scale - a Hugging Face Space by HuggingFaceFW](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
   - Animação Transformer
   - Slides Modalidade Texto
 - Limpeza das refs: archive
