@@ -105,6 +105,7 @@
 
 ## Courses to be taken
 
+* [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 * [The Hugging Face Agents Course](https://huggingface.co/agents-course)
 * [The Reasoning Course - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter12/1?fw=pt)
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
