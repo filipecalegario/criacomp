@@ -23,6 +23,9 @@
 ## Ideas to be implemented
 
 * Use Claude 3.7 to create charts based on an input screenshot for a chart for inspiration and paste in the data
+* Catalog Periodic Table Viewer Img Exported for Slides
+* Website Exporter for Slides
+* Headlines Exporter for Slides inspired by Wired
 
 ## Tools to be tested
 
