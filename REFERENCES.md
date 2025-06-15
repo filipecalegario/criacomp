@@ -60,21 +60,20 @@
 
 ### Quick adds
 
-* https://x.com/ollama/status/1928543644090249565?s=46
-* https://x.com/goodfireai/status/1928574301831151635?s=46
-* https://www.anthropic.com/research/open-source-circuit-tracing
-* https://x.com/_weexiao/status/1928150048120131698?s=46
-* https://x.com/etiennefd/status/1928279776478781698?s=46
-* https://x.com/ai_for_success/status/1928530258682327511?s=46
-* https://x.com/fal/status/1928545671159619972?s=46
-* https://replicate.com/flux-kontext-apps/multi-image-kontext
-* https://x.com/ai_for_success/status/1928145310468972675?s=46
-* https://x.com/techhalla/status/1928438156191248717?s=46
-* https://x.com/aravsrinivas/status/1928141573977489452?s=46
-* https://x.com/krea_ai/status/1928458878578262019?s=46
-* https://x.com/strickvl/status/1928468125156020505?s=46
-* https://x.com/kalyan_kpl/status/1909534305593839657?s=46
-* https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art
+* [(7) ollama on X: "Ollama can now think! 🤔🤔🤔 For thinking models, and especially useful for very thoughtful models like DeepSeek-R1-0528, Ollama can separate the thoughts and the response. Thinking can also be disabled! This is useful for getting a direct response. This works across https://t.co/kIInaJ5aMp" / X](https://x.com/ollama/status/1928543644090249565?s=46)
+* [(7) Goodfire on X: "How to visualize &gt;10k high-dimensional features we found inside an image model? UMAP! Our interactive plot lets you explore how features are clustered + click into a feature to paint with it. Here we find a “playing violin” feature that lies near other instruments and tools. https://t.co/LImWiNp2FS" / X](https://x.com/goodfireai/status/1928574301831151635?s=46)
+* [Open-sourcing circuit-tracing tools \ Anthropic](https://www.anthropic.com/research/open-source-circuit-tracing)
+* [(7) Kasey Zhang on X: "Don't use structured output mode for reasoning tasks. We’re open sourcing Osmosis-Structure-0.6B: an extremely small model that can turn any unstructured data into any format (e.g. JSON schema). Use it with any model - download and blog below! https://t.co/q0sTncBIKl" / X](https://x.com/_weexiao/status/1928150048120131698?s=46)
+* [Historical Tech Tree](https://www.historicaltechtree.com/)
+* [(7) AshutoshShrivastava on X: "🚨 Breaking: ElevenLabs just launched Conversational AI 2.0 This is freaking awesome... you seriously can’t go a day without something cool dropping in the AI space. &gt; Language switching &gt; Multi-character mode &gt; Multimodality &gt; Built-in RAG https://t.co/uhk8gd2i9W" / X](https://x.com/ai_for_success/status/1928530258682327511?s=46)
+* [FLUX.1 Kontext max / Image to Image / fal.ai](https://fal.ai/models/fal-ai/flux-pro/kontext/max/multi/playground)
+* [Combine Two Images with AI | FLUX.1 Kontext](https://replicate.com/flux-kontext-apps/multi-image-kontext-max)
+* [Perplexity Pro - Labs](https://www.perplexity.ai/)
+* [AI Image Generator - Create Art, Images & Video | Leonardo AI](https://leonardo.ai/)
+* [Krea](https://www.krea.ai/)
+* [Alex Strick van Linschoten - Building hinbox: An agentic research tool for historical document analysis](https://mlops.systems/posts/2025-05-29-hinbox-a-first-draft-of-an-agentic-research-system.html)
+* [PDFParsersPlayground - a Hugging Face Space by chunking-ai](https://huggingface.co/spaces/chunking-ai/pdf-playground)
+* [Call For Papers: Special Issue on Software Engineering in Generative Art](https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art): December
 
 ## Videos to be watched
 
