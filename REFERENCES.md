@@ -60,6 +60,7 @@
 * [Flowise - Build AI Agents, Visually](https://cloud.flowiseai.com/evaluators)
 * [Stitch - Design with AI](https://stitch.withgoogle.com/)
 * [Google Gemini Diffusion Instant Editor](https://deepmind.google.com/frontiers/u/1/gemini-diffusion/instant-editor)
+* 🔥 [Paperpal Draft - Online](https://edit.paperpal.com/drafts/b0e9968b-fee2-4153-8c54-48c4d04c4e2c?tab=chat-pdf)
 
 ### Quick adds
 
