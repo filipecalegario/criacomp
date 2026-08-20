@@ -2,6 +2,12 @@
 
 Bem-vinda e bem-vindo ao repositório da disciplina **Criatividade Computacional (IF866)** do Centro de Informática da UFPE.
 
+## 📰 Notícias da Edição Atual (2026.2)
+
+👉 **[Tendências e Notícias - 2026.2](2026-2-NEWS.md)**
+
+Lista curada dos links discutidos no início de cada aula: ferramentas, modelos, lançamentos, experimentos e discussões críticas sobre IA generativa. Atualizada semanalmente, com a data mais recente sempre no topo. Edições anteriores ficam em [`ARCHIVED/`](ARCHIVED/).
+
 ## ℹ Sobre a Disciplina
 
 Esta é uma disciplina experimental que promove a integração entre **tecnologias de IA generativa** e o **processo criativo humano**. A disciplina tem um enfoque prático, voltado para o **uso criativo, reflexivo e inovador de ferramentas de IA**, com ênfase em interfaces, experimentação multimodal e impacto real no processo criativo.
@@ -102,11 +108,12 @@ A avaliação da disciplina é dividida em **três grandes fases**:
 
 ## Referências para Aulas de Criatividade Computacional
 
-* [Tendências e Notícias - 2025.1](2025_1_news.md)
+* [Tendências e Notícias - 2026.2](2026-2-NEWS.md)
 
 ### Arquivo
 
-* [Tendências e Notícias - 2024.2](2024_2_news.md)
-* [Tendências e Notícias - 2024.1](2024_1_news.md)
-* [Tendências e Notícias - 2023.2](2023_2_news.md)
+* [Tendências e Notícias - 2025.1](ARCHIVED/2025_1_news.md)
+* [Tendências e Notícias - 2024.2](ARCHIVED/2024_2_news.md)
+* [Tendências e Notícias - 2024.1](ARCHIVED/2024_1_news.md)
+* [Tendências e Notícias - 2023.2](ARCHIVED/2023_2_news.md)
 
