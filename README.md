@@ -8,6 +8,8 @@ Bem-vinda e bem-vindo ao repositório da disciplina **Criatividade Computacional
 
 Lista curada dos links discutidos no início de cada aula: ferramentas, modelos, lançamentos, experimentos e discussões críticas sobre IA generativa. Atualizada semanalmente, com a data mais recente sempre no topo. Edições anteriores ficam em [`ARCHIVED/`](ARCHIVED/).
 
+Alguns links vêm com comentário, contexto e pauta de discussão em [**2026-2-NOTES.md**](2026-2-NOTES.md).
+
 ## ℹ Sobre a Disciplina
 
 Esta é uma disciplina experimental que promove a integração entre **tecnologias de IA generativa** e o **processo criativo humano**. A disciplina tem um enfoque prático, voltado para o **uso criativo, reflexivo e inovador de ferramentas de IA**, com ênfase em interfaces, experimentação multimodal e impacto real no processo criativo.
