@@ -12,6 +12,7 @@ Edição atual: **2026.2**
 - `README.md` — apresentação da disciplina, avaliação e projetos de períodos anteriores. Traz, logo no início, o link e a descrição do arquivo de notícias da edição corrente — **atualizar esse bloco a cada nova edição**.
 - `PROMPT_COLLECTION.md` — coleção de prompts usados em aula
 - `embeddings/`, `primeiros-passos/` — notebooks e materiais práticos
+- `skills/` — skills de ideação e crítica para o Projeto Autoral, em Markdown puro e agnósticas de agente. Ver `skills/README.md`
 
 ## Padrão para adicionar notícias
 
