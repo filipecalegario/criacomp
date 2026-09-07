@@ -150,6 +150,7 @@ O Projeto Ferramenta chamava-se **Projeto Final** nas edições abaixo.
 ## Referências para Aulas de Criatividade Computacional
 
 * [Tendências e Notícias - 2026.2](2026-2-NEWS.md)
+* [Coleção de Prompts Usados em Aula](PROMPT_COLLECTION.md)
 
 ### Arquivo
 
