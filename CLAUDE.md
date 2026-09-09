@@ -4,6 +4,30 @@ Repositório da disciplina **Criatividade Computacional (IF866)** — Centro de 
 
 Edição atual: **2026.2**
 
+## Padrão para adicionar notícias via Telegram (automação)
+
+Quando você recebe uma mensagem no Telegram contendo uma URL de notícia (ou quando o usuário envia qualquer link na conversa), use a skill `adicionar-noticia` para automatizar o fluxo completo.
+
+### Fluxo automático
+
+1. **Detectar**: qualquer mensagem com URL ⇒ aciona a skill `adicionar-noticia`
+2. **Extrair**: URL + título (use o título que veio na mensagem; se não houver, extraia da página ou use "Link enviado por [usuário]")
+3. **Editar**: adicione no `2026-2-NEWS.md` seguindo as regras abaixo (ver "Padrão para adicionar notícias")
+4. **Commit + push**: branch `news/YYYY-MM-DD-slug`, commit `add: <título>`, push para `origin`
+5. **Abrir PR**: `gh pr create --base main --head JosiasNetto:<branch>` apontando para `filipecalegario/criacomp`
+6. **Informar**: responda no Telegram com o link do PR criado
+
+### Regras de formatação (resumo)
+
+- Arquivo: `2026-2-NEWS.md`
+- Ordem: data mais recente no topo
+- Seção: `## DD/MM/AAAA` no topo; reutilize se já existir para hoje
+- Item: `- [título da página](url)` — título colado do navegador, sem traduzir/reescrever
+- Links soltos aceitos para redes sociais sem título útil
+- Sem comentários no NEWS — comentários vão para `2026-2-NOTES.md`
+
+> ⚠️ **Atenção**: a skill `adicionar-noticia` está localizada em `skills/adicionar-noticia/SKILL.md`. Leia-a antes de executar o fluxo.
+
 ## Estrutura do repositório
 
 - `2026-2-NEWS.md` — notícias da edição corrente (2026.2)
