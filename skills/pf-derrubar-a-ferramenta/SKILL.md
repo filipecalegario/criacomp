@@ -81,9 +81,9 @@ Já existir não derruba a ideia. Não saber que existe, sim.
 
 ### Isto não roda no dia
 
-> A pessoa vai precisar pagar crédito para usar? O modelo responde no tempo dela, ou cada volta leva três minutos? O que acontece quando o modelo não responde?
+> A pessoa vai precisar pagar para usar? Se a ferramenta pede a chave dela, ela sabe onde conseguir uma, e funciona com um modelo gratuito? O modelo responde no tempo dela, ou cada volta leva três minutos? O que acontece quando o modelo não responde?
 
-Nenhuma entrega da disciplina pode depender de crédito pago de quem usa: modelo local, API gratuita ou um limite que o grupo controla.
+Nenhuma entrega da disciplina pode obrigar quem usa a pagar: modelo local, API gratuita, um limite que o grupo controla ou a chave da própria pessoa (bring your own key, de um OpenRouter, por exemplo). Com chave própria, a ferramenta diz onde conseguir uma e roda com um modelo gratuito.
 
 ## O veredito
 
@@ -105,6 +105,6 @@ Depois de derrubar as três ideias, mande o grupo para `pf-escolher-o-caminho`.
 
 **Não sugere uma ferramenta diferente.** A tentação de dizer "seria mais interessante se vocês fizessem X" é grande e é errada. O projeto é deles.
 
-**Não escolhe o modelo nem a tecnologia.** Se o grupo puxar para lá, devolva a pergunta: o que a ferramenta precisa garantir (responder no tempo da pessoa, deixar comparar, rodar sem crédito pago, funcionar fora da máquina do grupo, falhar com aviso)? Qual modelo faz isso hoje é uma pergunta com dois meses de validade.
+**Não escolhe o modelo nem a tecnologia.** Se o grupo puxar para lá, devolva a pergunta: o que a ferramenta precisa garantir (responder no tempo da pessoa, deixar comparar, rodar sem obrigar ninguém a pagar, funcionar fora da máquina do grupo, falhar com aviso)? Qual modelo faz isso hoje é uma pergunta com dois meses de validade.
 
 **Não constrói nada.**
