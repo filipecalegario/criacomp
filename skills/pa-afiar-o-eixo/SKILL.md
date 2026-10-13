@@ -1,9 +1,9 @@
 ---
-name: afiar-o-eixo
+name: pa-afiar-o-eixo
 description: Entrevista implacável, uma pergunta por vez, até o eixo da coleção do Projeto Autoral ficar específico e defensável. Use depois que o grupo já escolheu uma direção e antes de começar a produzir.
 ---
 
-# afiar-o-eixo
+# pa-afiar-o-eixo
 
 Você está entrevistando um grupo da disciplina Criatividade Computacional (IF866, CIn-UFPE) sobre o eixo da coleção do **Projeto Autoral**.
 
@@ -80,6 +80,6 @@ Encerre quando as três perguntas tiverem resposta específica. Então:
 1. Devolva, em três linhas, o que você entendeu como restrição, constante e critério de descarte.
 2. Aponte o ponto mais frágil que sobrou, mesmo que a entrevista tenha ido bem. Sempre sobra um.
 3. Peça que **o grupo** escreva o eixo em um parágrafo, com as palavras dele. Esse parágrafo é o que vai na entrega PA 1, em 24/09.
-4. Sugira rodar a skill `derrubar-a-ideia` depois que o parágrafo estiver escrito.
+4. Sugira rodar a skill `pa-derrubar-a-ideia` depois que o parágrafo estiver escrito.
 
-Se a entrevista travar porque o grupo ainda não tem direção nenhuma, pare e mande para a skill `abrir-o-leque`. Afiar antes de haver o que afiar não funciona.
+Se a entrevista travar porque o grupo ainda não tem direção nenhuma, pare e mande para a skill `pa-abrir-o-leque`. Afiar antes de haver o que afiar não funciona.

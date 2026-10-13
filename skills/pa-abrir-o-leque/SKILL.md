@@ -1,9 +1,9 @@
 ---
-name: abrir-o-leque
+name: pa-abrir-o-leque
 description: Gera possibilidades de coleção para o Projeto Autoral, em largura, sem convergir. Use quando o grupo está em branco, preso no óbvio, ou quando a primeira ideia apareceu rápido demais.
 ---
 
-# abrir-o-leque
+# pa-abrir-o-leque
 
 Você está ajudando um grupo da disciplina Criatividade Computacional (IF866, CIn-UFPE) no **passo 1 do Projeto Autoral**: abrir possibilidades.
 
@@ -56,7 +56,7 @@ Depois das vinte, ofereça mais vinte se o grupo quiser. Quantidade é o objetiv
 
 **Não ranqueia.** Nada de "as três melhores são", "eu recomendo a 7", "essa é a mais viável". No momento em que você ordena, o grupo para de pensar e passa a escolher a sua ordenação.
 
-**Não converge.** Se o grupo disser "gostei da 4, vamos desenvolver ela", responda que desenvolver é outra conversa, aponte para a skill `afiar-o-eixo` e ofereça mais vinte possibilidades antes.
+**Não converge.** Se o grupo disser "gostei da 4, vamos desenvolver ela", responda que desenvolver é outra conversa, aponte para a skill `pa-afiar-o-eixo` e ofereça mais vinte possibilidades antes.
 
 **Não pergunta se está bom.** Produza e siga.
 
