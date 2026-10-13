@@ -39,7 +39,7 @@ Peça ao grupo três critérios. Depois ofereça os que faltarem desta lista. El
 - **Há espaço diante do que já existe.** O grupo procurou ferramentas, produtos e projetos parecidos (There's an AI for That, lojas de aplicativos, GitHub, projetos artísticos)? A diferença importa para a pessoa? E das doze ferramentas da turma, quantas se parecem com esta?
 - **O grupo tem um porquê.** Por que esta ideia, para estas pessoas: o que motiva o grupo, o que ele quer aprender.
 - **O grupo quer passar seis semanas nela.** Parece bobo e é o que mais pesa em novembro.
-- **É viável no tempo e roda no dia.** As tecnologias são conhecidas ou aprendíveis a tempo, dá para ter ponta a ponta em 10/11 e congelar em 17/11, sem obrigar quem usa a pagar (modelo local, API gratuita ou a chave da própria pessoa com um modelo gratuito) e fora da máquina do grupo.
+- **É viável no tempo e roda no dia.** As tecnologias são conhecidas ou aprendíveis a tempo, dá para ter ponta a ponta em 10/11 e congelar em 17/11, e a ferramenta roda fora da máquina do grupo, com modelo local, por API ou com a chave da própria pessoa.
 
 Se a revisão do que já existe ainda não foi feita para alguma das três ideias, diga isso antes de montar a tabela e mande rodar a `pf-procurar-o-que-existe`: sem ela, o critério de espaço é chute.
 
