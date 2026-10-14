@@ -10,11 +10,14 @@ Lista curada dos links discutidos no início de cada aula: ferramentas, modelos,
 
 Alguns links vêm com comentário, contexto e pauta de discussão em [**2026-2-NOTES.md**](2026-2-NOTES.md).
 
-## 🧩 Skills do Projeto Autoral (2026.2)
+## 🧩 Skills dos projetos (2026.2)
 
 👉 **[skills/](skills/)**
 
-Quatro skills de ideação e crítica para os grupos usarem durante o Projeto Autoral: `abrir-o-leque` (gera possibilidades), `afiar-o-eixo` (entrevista até o eixo ficar específico), `derrubar-a-ideia` (advogado do diabo) e `escutar-a-reuniao` (transforma a gravação de uma reunião do grupo em material de trabalho).
+Skills de ideação e crítica para os grupos. O prefixo diz o projeto: `pf-` é do Projeto Ferramenta, `pa-` é do Projeto Autoral.
+
+- **Projeto Ferramenta:** `pf-abrir-a-caixa` (monta a caixa morfológica e gera combinações), `pf-procurar-o-que-existe` (pesquisa o que já existe de parecido), `pf-derrubar-a-ferramenta` (advogado do diabo), `pf-escolher-o-caminho` (escolhe uma das três ideias, com critério) e `pf-ensaiar-o-pitch` (plateia de ensaio do pitch).
+- **Projeto Autoral:** `pa-abrir-o-leque` (gera possibilidades), `pa-afiar-o-eixo` (entrevista até o eixo ficar específico), `pa-derrubar-a-ideia` (advogado do diabo) e `pa-escutar-a-reuniao` (transforma a gravação de uma reunião do grupo em material de trabalho).
 
 São Markdown puro, sem dependência de agente específico. Elas não fazem o projeto de vocês: elas fazem vocês decidirem. Melhoria aceita por pull request conta como Experimento no Portfólio.
 
@@ -51,13 +54,15 @@ O grupo escolhe um **eixo**, se apropria das ferramentas que aquele eixo pede, e
 
 O que se avalia não é o artefato mais bonito da coleção: é a coerência entre o eixo declarado, o que entrou e o que ficou de fora. Doze arquivos na mesma pasta são um lote, e o que transforma lote em coleção é o eixo.
 
-As skills de ideação e crítica desta etapa estão em [`skills/`](skills/).
+As skills de ideação e crítica desta etapa estão em [`skills/`](skills/), com o prefixo `pa-`.
 
 ### 3. Projeto Ferramenta (em grupo)
 
 Um degrau acima na **Escada de Abstração**: o grupo deixa de ser quem usa ferramentas para criar um artefato e passa a ser quem constrói a ferramenta que permite que outra pessoa crie.
 
 A ferramenta precisa funcionar de verdade, e é testada em **Avaliação Cruzada** por gente de outro grupo, sem ninguém do grupo explicando por cima do ombro. O bloco é escalonado em entregas pequenas, de uma exploração inicial de três ideias até o sistema congelado.
+
+As skills de ideação e crítica desta etapa estão em [`skills/`](skills/), com o prefixo `pf-`.
 
 ### E ainda
 
@@ -142,7 +147,7 @@ O Projeto Ferramenta chamava-se **Projeto Final** nas edições abaixo.
 ## 📎 Links Úteis
 - Repositório com exemplos, guias e materiais: [este GitHub que você está lendo]
 - Comunicações pelo Google Classroom
-- Skills de ideação e crítica do Projeto Autoral: [`skills/`](skills/)
+- Skills de ideação e crítica dos projetos (`pa-` Autoral, `pf-` Ferramenta): [`skills/`](skills/)
 - Tendências e notícias serão atualizadas aqui no repositório semanalmente.
 
 ---

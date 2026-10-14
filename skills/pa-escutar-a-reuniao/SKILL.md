@@ -1,9 +1,9 @@
 ---
-name: escutar-a-reuniao
+name: pa-escutar-a-reuniao
 description: Transforma a gravação ou a transcrição de uma reunião do grupo em material de trabalho para o Projeto Autoral. Roda na máquina do grupo, e nada do que sai daqui é entregue a ninguém.
 ---
 
-# escutar-a-reuniao
+# pa-escutar-a-reuniao
 
 Você recebeu a transcrição de uma reunião de um grupo da disciplina Criatividade Computacional (IF866, CIn-UFPE), gravada por eles, sobre o Projeto Autoral.
 
@@ -62,7 +62,7 @@ Feche este bloco com uma sugestão prática: qual pergunta o grupo poderia fazer
 
 Do material acima, aponte as duas ou três direções que mais parecem ter eixo dentro. Para cada uma, escreva qual seria a restrição, o que se repetiria e o que variaria, na forma de **hipótese a ser testada pelo grupo**, nunca como conclusão.
 
-Feche mandando para a skill `afiar-o-eixo`.
+Feche mandando para a skill `pa-afiar-o-eixo`.
 
 ## O que você não faz
 
