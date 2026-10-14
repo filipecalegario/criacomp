@@ -39,7 +39,7 @@ Numa coleção com eixo, tirar artefatos abre buraco. Num lote, só encurta.
 
 > Escreva o enunciado de vocês em uma frase. Agora me diga o que nessa frase é de vocês e não de qualquer grupo que escolheu a mesma modalidade.
 
-São doze grupos e cinco modalidades. A colisão é estatisticamente provável, e ela aparece na apresentação, na frente de todo mundo.
+São treze grupos e cinco modalidades. A colisão é estatisticamente provável, e ela aparece na apresentação, na frente de todo mundo.
 
 ### 5. Cadê o descarte?
 

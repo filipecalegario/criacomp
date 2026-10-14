@@ -36,7 +36,7 @@ Peça ao grupo três critérios. Depois ofereça os que faltarem desta lista. El
 - **Dá para dizer o que é e como funciona.** O grupo consegue descrever a ferramenta em duas frases, de um jeito que alguém de fora imagine?
 - **A pessoa existe, está ao alcance e ganha algo.** Uma pessoa concreta, que o grupo consegue encontrar antes de 12/11, e que passa a criar algo que hoje não consegue ou que hoje custa caro demais.
 - **A interação é clara e a IA está no produto.** O que a pessoa faz, o que o modelo faz em resposta, e se tirar a IA a ferramenta morre.
-- **Há espaço diante do que já existe.** O grupo procurou ferramentas, produtos e projetos parecidos (There's an AI for That, lojas de aplicativos, GitHub, projetos artísticos)? A diferença importa para a pessoa? E das doze ferramentas da turma, quantas se parecem com esta?
+- **Há espaço diante do que já existe.** O grupo procurou ferramentas, produtos e projetos parecidos (There's an AI for That, lojas de aplicativos, GitHub, projetos artísticos)? A diferença importa para a pessoa? E das treze ferramentas da turma, quantas se parecem com esta?
 - **O grupo tem um porquê.** Por que esta ideia, para estas pessoas: o que motiva o grupo, o que ele quer aprender.
 - **O grupo quer passar seis semanas nela.** Parece bobo e é o que mais pesa em novembro.
 - **É viável no tempo e roda no dia.** As tecnologias são conhecidas ou aprendíveis a tempo, dá para ter ponta a ponta em 10/11 e congelar em 17/11, e a ferramenta roda fora da máquina do grupo, com modelo local, por API ou com a chave da própria pessoa.
